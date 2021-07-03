@@ -7,3 +7,4 @@ Right now I know:
 . Node js
 . Repl.it
 . JavaScript
+. Core java
